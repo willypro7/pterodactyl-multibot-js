@@ -20,5 +20,3 @@ You can modify the command that will execute in Line 16
 | 2    | 120mb | Unknown |
 | 3    | 160mb | Unknown |
 
-## Recommended hostings
-- [MoonHosting (8 GB Free)](https://discord.gg/kvx4FG9U5z)
